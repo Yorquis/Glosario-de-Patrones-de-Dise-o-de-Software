@@ -1,0 +1,1 @@
+# Glosario-de-Patrones-de-Dise-o-de-Software
